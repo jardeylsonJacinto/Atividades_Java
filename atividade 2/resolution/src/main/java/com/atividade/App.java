@@ -2,7 +2,7 @@ package com.atividade;
 
 public class App {
     public static void main(String[] args) {
-        // Corrigir este algoritmo.
+        // Algoritmo corrigido.
         int vetor[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         int numero = 8;
         boolean achou = false;
