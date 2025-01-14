@@ -1,4 +1,4 @@
-package com.atividade1;
+package com.atividade;
 
 import static org.junit.Assert.assertTrue;
 
